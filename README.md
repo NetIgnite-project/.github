@@ -11,11 +11,6 @@ Whether you're managing home networks, enterprise infrastructure, or datacenters
 ### 🌐 Power On Devices From Anywhere
 Remotely power on routers, PCs, servers, printers, and more — wherever they are.
 
-- **Router**: Online  
-- **PC**: Standby  
-- **Server**: Offline  
-- **Printer**: Ready  
-
 ### 🛠️ Powerful Remote Management
 
 Everything you need to securely manage network devices, all in one place.
